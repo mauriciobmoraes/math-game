@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="6" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Users/mauri_000/Desktop/opera&#xe7;oes/operacoes/src" timestamp="1444226195040" lastAccessTime="1444227061256">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2885031380/1.idx"/>
+  </entries>
+  <entries path="C:/Users/mauri_000/Desktop/opera&#xe7;oes/operacoes/src/main.lua" timestamp="1445108352097" lastAccessTime="1445108352845">
+    <attributes name="indexed" location="2838196607/4129943269/5.idx"/>
+  </entries>
+</cache:CacheIndex>
